@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://youtu.be/@ManulOfficialTech">
-    <img alt="MANU-MD" height="300" width="650" src="https://i.ibb.co/xbY5J8S/IMG-20250228-WA0188.jpg">
+    <img alt="QUEEN NETHU-MD" height="300" width="650" src="https://i.ibb.co/xbY5J8S/IMG-20250228-WA0188.jpg">
 
     
 
@@ -61,7 +61,7 @@
 <br>
 <br>
 <br>
-## 👑 `Manu-MD BOT OWNER`👨‍💻 
+## 👑 `QUEEN NETHU-MD BOT OWNER`👨‍💻 
 
 `⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.`
 
